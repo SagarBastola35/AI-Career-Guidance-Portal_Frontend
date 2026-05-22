@@ -1,6 +1,6 @@
 // frontend/src/pages/ResumeAnalyzer.jsx
 import React, { useState, useCallback } from "react";
-import axios from "axios";
+import axios from '../utils/axios';
 import { motion } from "framer-motion";
 import {
   Upload,
