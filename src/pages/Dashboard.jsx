@@ -12,7 +12,7 @@ import {
   Target,
   ChevronRight,
 } from "lucide-react";
-import axios from "axios";
+import axios from '../utils/axios.js';
 import { Link } from "react-router-dom";
 
 const Dashboard = () => {
