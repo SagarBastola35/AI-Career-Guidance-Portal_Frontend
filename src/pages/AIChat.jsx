@@ -1,6 +1,6 @@
 // frontend/src/pages/AIChat.jsx
 import React, { useState, useRef, useEffect } from "react";
-import axios from '../utils/axios'
+import axios from '../utils/axios.js'
 import { motion, AnimatePresence } from "framer-motion";
 import { Send, Bot, User, Loader2, Sparkles } from "lucide-react";
 
