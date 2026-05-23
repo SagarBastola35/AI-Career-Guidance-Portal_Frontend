@@ -4,7 +4,7 @@ import axios from 'axios';
 const API_BASE = import.meta.env.VITE_API_URL || 'https://ai-career-guidance-portal-backend-11.onrender.com';
 
 const axiosInstance = axios.create({
-  baseURL: `${API_BASE}`,   // appends /api once
+  baseURL: `${API_BASE}/api`,   // appends /api once
   headers: { 'Content-Type': 'application/json' },
   withCredentials: true,
 });
