@@ -1,4 +1,4 @@
-// frontend/src/pages/Dashboard.jsx
+
 import React, { useEffect, useState } from "react";
 import { useAuth } from "../context/AuthContext";
 import { motion } from "framer-motion";
