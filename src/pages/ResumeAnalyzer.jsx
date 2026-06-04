@@ -1,4 +1,4 @@
-// frontend/src/pages/ResumeAnalyzer.jsx
+
 import React, { useState, useCallback } from "react";
 import axios from '../utils/axios.js'
 import { motion } from "framer-motion";
