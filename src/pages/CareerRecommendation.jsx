@@ -1,5 +1,4 @@
 
-// frontend/src/pages/CareerRecommendation.jsx
 import React, { useState, useEffect } from "react";
 import axios from '../utils/axios.js';
 import { motion } from "framer-motion";
