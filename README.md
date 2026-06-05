@@ -21,7 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Features
 
-- 🤖 AI-Powered Career Recommendations using OpenAI GPT
+- 🤖 AI-Powered Career Recommendations using GROQ AI
 - 💬 Interactive AI Career Chat Assistant
 - 📄 Resume Analysis with ATS Scoring
 - 📊 Skill Gap Analysis & Learning Recommendations
@@ -33,8 +33,8 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Tech Stack
 
 - **Frontend**: React 18, Vite, TailwindCSS, Framer Motion, Lucide Icons
-- **Backend**: Node.js, Express, MongoDB, JWT, OpenAI API
-- **AI Integration**: OpenAI GPT-3.5-turbo
+- **Backend**: Node.js, Express, MongoDB, JWT, GROQ AI API
+- **AI Integration**: GROQ llama-3.1-8b-instant
 
 ## Setup Instructions
 
@@ -42,7 +42,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 - Node.js (v18+)
 - MongoDB (local or Atlas)
-- OpenAI API Key
+- GROQ AI API Key
 
 ### Backend Setup
 
